@@ -45,13 +45,13 @@ img{max-width:80%;border-radius:20px;margin:10px;box-shadow:0 0 15px rgba(255,0,
 
 <script>
 let slides = [
-  "Snapchat-14081490.jpg",
-  "Snapchat-1527682850.jpg",
-  "Snapchat-1603898133.jpg",
-  "Snapchat-1983733540.jpg",
-  "Snapchat-509499410.jpg",
-  "Snapchat-986324046.jpg",
-  "Snapchat-98778515.jpg"
+  "images/Snapchat-14081490.jpg",
+  "images/Snapchat-1527682850.jpg",
+  "images/Snapchat-1603898133.jpg",
+  "images/Snapchat-1983733540.jpg",
+  "images/Snapchat-509499410.jpg",
+  "images/Snapchat-986324046.jpg",
+  "images/Snapchat-98778515.jpg"
 ];
 let currentSlide = 0;
 function nextSlide(){
